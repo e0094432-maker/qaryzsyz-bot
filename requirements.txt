@@ -1,3 +1,5 @@
 aiogram==3.7.0
-pypdf
-python-docx
+aiohttp==3.9.5
+pypdf==4.3.1
+python-docx==1.1.2
+pydantic==2.6.4
