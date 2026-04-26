@@ -1,8 +1,0 @@
-aiogram>=3.0.0
-pypdf>=3.0.0
-pdfminer.six>=20221105
-pdfplumber>=0.10.0
-python-docx>=0.8.11
-aiohttp>=3.9.0
-anthropic>=0.39.0
-python-dotenv>=1.0.0
