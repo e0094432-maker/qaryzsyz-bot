@@ -19,7 +19,7 @@ logger = logging.getLogger(__name__)
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "")
 
 # Модель — Gemini 1.5 Flash (бесплатная, быстрая, поддерживает русский/казахский)
-MODEL_NAME = "gemini-1.5-flash-latest"
+MODEL_NAME = "gemini-pro"
 
 # Лимиты
 MAX_HISTORY_MESSAGES = 20      # храним последние 20 сообщений (10 пар Q/A)
